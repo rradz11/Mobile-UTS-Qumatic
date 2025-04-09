@@ -19,6 +19,8 @@ Proyek ini terdiri dari beberapa file dan fitur utama:
 
 Berisi logika utama kuis, seperti pertanyaan, jawaban, skor, feedback visual, hingga dialog akhir kuis.
 
+---
+
 #### 3. Fitur Utama:
 
 1. **Navigasi Soal**
