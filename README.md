@@ -6,18 +6,18 @@
 <h2>Struktur Proyek</h2>
 Proyek ini terdiri dari beberapa file dan fitur utama:
 
-### `main.dart` - Core Flutter App
+### 1. `main.dart` - Core Flutter App
 - Memuat struktur utama aplikasi Flutter.
 - Menggunakan font dari Google Fonts.
 - Menampilkan `SplashScreen` sebagai halaman pembuka.
 
 ---
 
-### `QuizPage` (StatefulWidget)
+### 2. `QuizPage` (StatefulWidget)
 
 Berisi logika utama kuis, seperti pertanyaan, jawaban, skor, feedback visual, hingga dialog akhir kuis.
 
-#### Fitur Utama:
+#### 3. Fitur Utama:
 
 1. **Navigasi Soal**
    - Menampilkan pertanyaan satu per satu.
