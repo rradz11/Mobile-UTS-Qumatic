@@ -1,6 +1,8 @@
 <h1> Kelompok 6 - Qumatic </i></h1>
 
 <h2>Deskripsi</h2>
+<p>Sebuah aplikasi kuis interaktif berbasis Flutter yang dibuat dengan gaya santai namun tetap edukatif. Terdapat fitur skor, streak badge, dan tampilan hasil akhir. Proyek ini juga memanfaatkan font dari Google Fonts dan splash screen custom.</p>
+<br>
 <p>Di samping sebagai pemenuhan proyek UTS mata kuliah Pemrograman Mobile, aplikasi Qumatic atau Quiz Mafortic ini juga ditujukan untuk para mahasiswa baru mengetes kemampuan mereka sebelum lanjut ke jenjang yang lebih tinggi.</p>
 
 <h2>Struktur Proyek</h2>
